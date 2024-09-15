@@ -9,9 +9,9 @@
 4. How the price changes with change in Source and Destination?
 5. How does the ticket price vary between Economy and Business class?
 # Observations after Analysis- 
--- In the Economy Class: The cheapest airline is Air Asia and The most expensive airline is Vistara
--- In the Business Class: The cheapest airline is Air India and The most expensive airline is Vistara
--- In general: The most expensive airline is Vistara and The cheapest airline is Air Asia
+1) In the Economy Class: The cheapest airline is Air Asia and The most expensive airline is Vistara
+2) In the Business Class: The cheapest airline is Air India and The most expensive airline is Vistara
+3) In general: The most expensive airline is Vistara and The cheapest airline is Air Asia
 # The median price when tickets are bought in just 1 day before departure:  14150.0
 # The median price when tickets are bought in just 2 days before departure:  13212.0
 # The cheapest time to travel is Late at Night.
